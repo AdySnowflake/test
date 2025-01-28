@@ -1,0 +1,2 @@
+[Rewrite]
+http-request https:\/\/www.youtube.com\/api\/timedtext\?.+&lang=(?!(zh|zh\-Hans)&)((?!&tlang=zh\-Hans).)*$ header-replace &tlang=zh-Hans
