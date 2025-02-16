@@ -17,4 +17,4 @@
 
 ||dig.bdurl.net^$app=com.dragon.read
 
-||zijieapi.com^$app=com.dragon.read
+! ||zijieapi.com^$app=com.dragon.read
