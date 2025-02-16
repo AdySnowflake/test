@@ -1,0 +1,7 @@
+
+||ads5-normal-lq.zijieapi.com^$app=com.dragon.read
+||ads3-normal-lq.zijieapi.com^$app=com.dragon.read
+
+||zijieapi.com^$app=com.dragon.read
+
+||dig.bdurl.net^$app=com.dragon.read
