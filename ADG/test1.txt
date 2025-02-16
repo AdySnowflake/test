@@ -10,9 +10,10 @@
 ||saveu3-normal-lq.zijieapi.com^$app=com.dragon.read
 ||saveu5-normal-lq.zijieapi.com^$app=com.dragon.read
 
-||vcs.zijieapi.com^$app=com.dragon.read
 ||gecko3-lq.zijieapi.com^$app=com.dragon.read
 ||gecko5-lq.zijieapi.com^$app=com.dragon.read
+
+||vcs.zijieapi.com^$app=com.dragon.read
 
 ||dig.bdurl.net^$app=com.dragon.read
 
